@@ -4,7 +4,7 @@
 - 🎯 Currently transitioning to **Data Analysis** with a strong background in Communication and Education.
 - 💡 Passionate about uncovering stories hidden in data and turning them into actionable insights.
 - 🌱 Deepening my knowledge in **Python (Pandas, Matplotlib)**, **SQL**, and **Machine Learning**.
-- 📫 How to reach me: lcgomezpuerta@gmail  |  linkedin.com/in/laura-gomez-puerta/
+- 📫 How to reach me: lcgomezpuerta@gmail  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-gomez-puerta/)
  
 ## 🛠️ Tech Stack & Tools
 <p align="left">
