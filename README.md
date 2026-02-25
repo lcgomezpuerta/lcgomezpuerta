@@ -5,15 +5,11 @@
 - 💡 Passionate about uncovering stories hidden in data and turning them into actionable insights.
 - 🌱 Deepening my knowledge in **Python (Pandas, Matplotlib)**, **SQL**, and **Machine Learning**.
 - 📫 How to reach me: lcgomezpuerta@gmail  |  linkedin.com/in/laura-gomez-puerta/
-- 
-- ## 🛠️ Tecnologías y Herramientas
+ 
+## 🛠️ Tech Stack & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  
-  <br>
-  
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
