@@ -1,7 +1,7 @@
 # Hi! I'm Laura Gomez | Data Analyst & Insights Enthusiast 📊
 
 ## 🚀 About Me
-- 🎯 Currently transitioning to **Data Analysis** with a strong background in Communication and Education.
+- 🎯 Currently transitioning to **Data Analysis** with a strong background in education and project-based environments.
 - 💡 Passionate about uncovering stories hidden in data and turning them into actionable insights.
 - 🌱 Deepening my knowledge in **Python (Pandas, Matplotlib)**, **SQL**, and **Machine Learning**.
 - 📫 How to reach me: lcgomezpuerta@gmail  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-gomez-puerta/)
@@ -20,3 +20,13 @@
 <p align="center">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lcgomezpuerta&theme=tokyonight" width="48%" />
 </p>
+
+## 📑 Featured Data Projects
+
+| Project | Description | Tech Stack | Analysis |
+| :--- | :--- | :--- | :--- |
+| **Ride-Sharing Efficiency (Zuber)** | Investigating the impact of weather on trip frequency and duration in Chicago using SQL, Web Scraping, and Hypothesis Testing. | SQL, Python, Beautiful Soup, Scipy | [View Project](https://github.com/lcgomezpuerta/zuber-chicago-analysis) |
+| **Video Game Market Analysis (ICE)** | Strategic study of global sales and critic scores to identify high-potential segments for marketing campaigns. | Python, Pandas, Matplotlib, Stats | [View Project](https://github.com/lcgomezpuerta/video-game-analysis) |
+
+## 🎯 Professional Interests
+I am particularly interested in **Data Storytelling** and **People Analytics**, where I can combine my background in Communication and Education with data-driven decision-making.
