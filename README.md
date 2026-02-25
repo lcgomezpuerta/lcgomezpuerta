@@ -18,6 +18,5 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lcgomezpuerta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lcgomezpuerta&theme=tokyonight" width="48%" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lcgomezpuerta&theme=tokyonight" width="48%" />
 </p>
